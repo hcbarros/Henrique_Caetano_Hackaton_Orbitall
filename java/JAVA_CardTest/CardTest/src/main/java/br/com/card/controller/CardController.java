@@ -26,7 +26,7 @@ import br.com.card.service.CardService;
 
 @RestController
 @Validated
-@RequestMapping("/card")
+@RequestMapping("/cards")
 public class CardController {
 
 	@Autowired
